@@ -1,8 +1,8 @@
 <hr>
 
-# [난이도] No.문제 번호: 문제 이름 
+# [난이도] No.1008: 문제 이름 
 
-## [[LINK]/](http://ascode.org/problem.php?id=문제 번호)/No.문제 번호 
+## [[LINK]/](http://ascode.org/problem.php?id=1008)/No.1008 
 
 ### 사용 언어 / 성능 요약 / 분류 
 
