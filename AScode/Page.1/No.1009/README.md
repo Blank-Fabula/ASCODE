@@ -1,6 +1,6 @@
 <hr>
 
-# [난이도] No.1009: 문제 이름 
+# [Bronze IV] No.1009: 문제 이름 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1009)/No.1009 
 
@@ -12,15 +12,16 @@
 
 ### 문제 설명 
 
-
+여러가지의 문자들의 입력이 들어올 때 소문자이면은 대문자로 대문자이면은 소문자로 바꿔주는 프로그램을 만들어보자. <br>
 
 ### 입력 설명 
 
-
+첫번째 줄에는 테스트케이스가 들어온다. <br>
+그 다음 줄 부터는 문자 1개씩 들어온다. <br>
 
 ### 출력 설명 
 
-
+대문자이면 소문자로, 소문자이면 대문자로 출력을 한다. <br>
 
 <hr>
 
@@ -28,7 +29,11 @@
 
 <details><summary>CLICK ME</summary>
 <pre>
-<strong></strong>
+<strong>4
+a
+z
+A
+Z</strong>
 </pre>
 </details>
 
@@ -36,7 +41,10 @@
 
 <details><summary>CLICK ME</summary>
 <pre>
-<strong></strong>
+<strong>A
+Z
+a
+z</strong>
 </pre>
 </details>
 
