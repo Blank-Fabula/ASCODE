@@ -1,6 +1,6 @@
 <hr>
 
-# [난이도] No.1007: 수식 계산 프로그램 (기초) #1 
+# [Bronze V] No.1007: 수식 계산 프로그램 (기초) #1 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1007)/No.1007 
 
