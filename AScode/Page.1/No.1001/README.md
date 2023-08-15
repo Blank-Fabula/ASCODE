@@ -1,6 +1,6 @@
 <hr>
 
-# [] No.1001: 나는 차차를 싫어해! 
+# [Silver II] No.1001: 나는 차차를 싫어해! 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1001)/No.1001 
 
