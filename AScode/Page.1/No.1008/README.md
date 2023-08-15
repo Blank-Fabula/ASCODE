@@ -1,6 +1,6 @@
 <hr>
 
-# [난이도] No.1008: 문제 이름 
+# [Bronze V] No.1008: 문제 이름 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1008)/No.1008 
 
