@@ -1,6 +1,6 @@
 <hr>
 
-# [Silver II] No.1003: 나는 차차를 싫어해! 
+# [Bronze III] No.1003: 나는 차차를 싫어해! 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1003)/No.1003 
 
