@@ -1,6 +1,6 @@
 <hr>
 
-# [Bronze IV] No.1006: 문자열중 문자의 갯수 구하기 
+# [Bronze III] No.1006: 문자열중 문자의 갯수 구하기 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1006)/No.1006 
 
