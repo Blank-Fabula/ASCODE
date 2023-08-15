@@ -1,6 +1,6 @@
 <hr>
 
-# [Bronze III] No.1003: 차차 퀘스트 I 
+# [Bronze II] No.1003: 차차 퀘스트 I 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1003)/No.1003 
 
