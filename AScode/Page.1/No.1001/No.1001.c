@@ -3,33 +3,34 @@
 #include <string.h>
 
 #define MY_CHAR_MAX 1025
-char Message[MY_CHAR_MAX];
+char message[MY_CHAR_MAX];
 
 int main(int argc, char** argv) {
     int T; scanf("%d", &T);
     while (T--) {
-        char UpperMessage[MY_CHAR_MAX] = { NULL };
-        scanf("%s", Message);
-        int MessageLen = strlen(Message), CharCount = 0, LenCount = 0;
-        for (int i = 0; i < MessageLen; i++) { UpperMessage[i] = toupper(Message[i]); }
-        for (int i = 0; i <= MessageLen; i++) {
-            if (strncmp(&UpperMessage[i], "CHAR", 4) == 0) { CharCount++; }
+        char upperMessage[MY_CHAR_MAX] = { NULL };
+        scanf("%s", message);
+        int messageLen = strlen(message), charCount = 0, lenCount = 0;
+        for (int i = 0; i < messageLen; i++) { upperMessage[i] = toupper(message[i]); }
+        for (int i = 0; i <= messageLen; i++) {
+            if (strncmp(&upperMessage[i], "CHAR", 4) == 0) { charCount++; }
         }
-        int RemoveCharLen = strlen(Message);
-        if (CharCount >= 2) {
-            for (int i = 0; i <= MessageLen; i++) {
-                if (strncmp(&UpperMessage[i], "CHAR", 4) == 0) {
-                    for (int j = 0; j < 4; j++) { Message[i + j] = '0'; }
+        int removeCharLen = strlen(message);
+        if (charCount >= 2) {
+            for (int i = 0; i <= messageLen; i++) {
+                if (strncmp(&upperMessage[i], "CHAR", 4) == 0) {
+                    for (int j = 0; j < 4; j++) { message[i + j] = '0'; }
                 }
             }
-            for (int i = 0; i < strlen(Message); i++) {
-                if (Message[i] != '0') {
-                    LenCount = 1;
-                    printf("%c", Message[i]);
+            for (int i = 0; i < strlen(message); i++) {
+                if (message[i] != '0') {
+                    lenCount = 1;
+                    printf("%c", message[i]);
                 }
             }
-            if (LenCount == 0) { printf("I Hate CharChar!"); }
+            if (lenCount == 0) { printf("I Hate CharChar!"); }
             printf("\n");
-        } else { puts(Message); }
+        }
+        else { puts(message); }
     }
 return 0; }
