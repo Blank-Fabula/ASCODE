@@ -1,8 +1,8 @@
 <hr>
 
-# [Silver II] No.1004: 나는 차차를 싫어해! 
+# [Silver II] No.1003: 나는 차차를 싫어해! 
 
-## [[LINK]/](http://ascode.org/problem.php?id=1004)/No.1004 
+## [[LINK]/](http://ascode.org/problem.php?id=1003)/No.1003 
 
 ### 사용 언어 / 성능 요약 / 분류 
 
