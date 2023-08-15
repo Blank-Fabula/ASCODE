@@ -1,6 +1,6 @@
 <hr>
 
-# [Bronze III] No.1005: 시분할 연습 #2
+# [Bronze II] No.1005: 시분할 연습 #2
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1005)/No.1005 
 
