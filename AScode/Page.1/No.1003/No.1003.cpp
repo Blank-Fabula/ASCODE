@@ -12,7 +12,7 @@ int main(int argc, char** argv) {
     while (T--) {
         int monster[26] = { 0 };
         int W, H, R; cin >> W >> H >> R;
-        dunMap.clear(); dunMap.resize(H);
+        dunMap.resize(H);
         for (int i = 0; i < H; i++) {
             cin >> dunMap[i];
             for (int j = 0; j < W; j++) {
