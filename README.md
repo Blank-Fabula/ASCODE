@@ -1,4 +1,4 @@
-# ASCODE [[LINK(AScode)]](http://ascode.org/)
+# ASCODE [[LINK]/](http://ascode.org/)/ascode.org
 
 ### Repository for recording ASCODE problem solving.
 
