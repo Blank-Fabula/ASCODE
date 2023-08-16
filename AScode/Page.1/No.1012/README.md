@@ -1,6 +1,6 @@
 <hr>
 
-# [난이도] No.1012: 시간이 얼마나 흘렀지? 
+# [Bronze V] No.1012: 시간이 얼마나 흘렀지? 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1012)/No.1012 
 
