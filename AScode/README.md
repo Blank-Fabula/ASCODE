@@ -2,7 +2,7 @@
 
 # About Page. 
 
-### <sup>EN</sup><br>　Each page has 100 problems or less. 
+### <sup>EN</sup><br>　Each page contains a maximum of 100 problems.  
 
 #
 
