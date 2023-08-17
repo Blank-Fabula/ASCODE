@@ -2,10 +2,10 @@
 
 # About Page. 
 
-### <sup>EN</sup><br>　The maximum number of questions on each page is 100. 
+### <sup>EN</sup><br>　Each page has 100 problems or less. 
 
 #
 
-### <sup>KR</sup><br>　각 페이지의 최대 문제 수는 100개 입니다. 
+### <sup>KR</sup><br>　각 페이지에는 100개 이하의 문제들이 있습니다. 
 
 <hr>
