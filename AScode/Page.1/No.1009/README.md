@@ -1,6 +1,6 @@
 <hr>
 
-# [Bronze IV] No.1009: 문제 이름 
+# [Bronze IV] No.1009: 대소문자 변경 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1009)/No.1009 
 
