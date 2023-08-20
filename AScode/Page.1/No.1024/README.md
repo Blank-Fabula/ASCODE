@@ -1,6 +1,6 @@
 <hr>
 
-# [난이도] No.1024: 평균 관객수 구하기 #2 
+# [Bronze V] No.1024: 평균 관객수 구하기 #2 
 
 ## [[LINK]/](http://ascode.org/problem.php?id=1024)/No.1024 
 
